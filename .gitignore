@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch and Checkpoints
+*.pth
+*.pt
+checkpoints/
+pilot_sample_plots/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
